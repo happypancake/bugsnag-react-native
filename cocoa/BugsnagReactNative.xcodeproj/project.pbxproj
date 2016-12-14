@@ -375,7 +375,7 @@
 			buildSettings = {
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/../../react-native/React/**",
+					"$(BUILT_PRODUCTS_DIR)/usr/local/include",
 					"$(SRCROOT)/vendor/bugsnag-cocoa/Source/",
 				);
 				OTHER_LDFLAGS = (
@@ -392,7 +392,7 @@
 			buildSettings = {
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/../../react-native/React/**",
+					"$(BUILT_PRODUCTS_DIR)/usr/local/include",
 					"$(SRCROOT)/vendor/bugsnag-cocoa/Source/",
 				);
 				OTHER_LDFLAGS = (
